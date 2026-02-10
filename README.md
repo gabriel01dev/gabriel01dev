@@ -5,11 +5,9 @@
 🌱 Aprendendo **HTML, CSS e JavaScript**  
 🚀 Criando meus primeiros **projetos e experimentos**
 
-📂 **Meus interesses:** Web Development, Automação, Games  
-
 📫 **Como me encontrar:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nunes-a70b60343/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nunez.7z/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nunez.7z)
 
 ---
 
