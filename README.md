@@ -8,8 +8,8 @@
 📂 **Meus interesses:** Web Development, Automação, Games  
 
 📫 **Como me encontrar:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin) 
-[![Instagram](https://www.instagram.com/nunez.7z?igsh=MzF4OXMwcXE0eXc0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-nunes-a70b60343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nunez.7z?igsh=MzF4OXMwcXE0eXc0)
 
 ---
 
