@@ -9,7 +9,7 @@
 
 📫 **Como me encontrar:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram)
+[![Instagram](https://www.instagram.com/nunez.7z?igsh=MzF4OXMwcXE0eXc0)
 
 ---
 
